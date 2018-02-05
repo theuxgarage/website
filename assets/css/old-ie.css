@@ -1,0 +1,21 @@
+/* ==========================================================================
+   #THE UX GARAGE IE SUPPORT STYLESHEET
+   ========================================================================== */
+
+/**html .wrapper {width:expression(document.documentElement.clientWidth > 1200? "110em" : "96em")}*/ /*Emulate max-width for IE 6*/
+
+/* display:flex;*/
+
+ /*{
+	display: table;
+	width: 100%;
+}*/
+
+/*flex-direction: row; */
+
+/*
+	display: inline-block;
+
+}*/
+
+
